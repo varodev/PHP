@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="estilo.css" href="estilo.css"?>
+<escritores>
+    <escritor>
+    <nombre>Miguel de Cervantes Saavedra</nombre>
+    <obra>El ingenioso hidalgo don Quijote de la Mancha</obra>
+    <obra>Novelas ejemplares</obra>
+    </escritor>
+    
+    <escritor>
+    <nombre>Francisco de Quevedo</nombre>
+    <obra>Historia de la vida del Buscon</obra>
+    </escritor>
+</escritores>

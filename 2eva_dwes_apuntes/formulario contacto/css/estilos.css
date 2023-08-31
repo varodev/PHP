@@ -1,0 +1,29 @@
+* {
+    font-family: "Calibri";
+}
+
+body {
+    margin: 3em auto;
+    width: 80%;
+}
+
+label {
+    display: block;
+    margin-top: .5em;
+}
+
+textarea {
+    resize: horizontal;
+}
+
+.azul {
+    color: blue;
+}
+
+.botones {
+    margin-top: .5em;
+}
+
+.rojo {
+    color: red;
+}

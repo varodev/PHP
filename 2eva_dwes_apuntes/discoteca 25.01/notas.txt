@@ -1,0 +1,15 @@
+
+////////////////////////////////////////////////////////////////
+mostrar_grupos.php 
+    - paginaremos los álbumes
+    - SELECT * FROM grupos ORDER BY nombre;
+    - En el While de la Query se creará un contenedor con las clases
+      correspondientes para que en cada iteracion se cree la seccion con
+      la imagen y el nombre
+
+
+
+
+
+
+

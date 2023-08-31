@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Pattern</title>
+    <style>
+        input:invalid {
+            color: red;
+        }
+        
+        input:valid {
+            color: green;
+        }
+        
+        input:focus {
+            background: lightsalmon;
+            transition: 0.3s;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Ejemplo de Pattern</h1>
+    <form name="formulario" action='xxx.php' method='GET'>
+
+        <label for='telefono'>Teléfono:</label>
+        <input type='text' name='telefono' pattern='[679][0-9]{8}' title="fijo y moviles" maxlength="9" required autofocus>
+
+
+        <input type='submit' name='enviar' value='Enviar'>
+
+    </form>
+
+</body>
+
+</html>

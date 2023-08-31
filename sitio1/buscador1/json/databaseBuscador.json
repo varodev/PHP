@@ -1,0 +1,79 @@
+{
+    "datos": [{
+            "ide": 1,
+            "raza": "border collie",
+            "peso": "25kg",
+            "ruta": "img/collie01.jpg"
+
+        },
+        {
+            "ide": 2,
+            "raza": "collie barbudo",
+            "peso": "21kg",
+            "ruta": "img/collie02.jpg"
+
+        },
+        {
+            "ide": 3,
+            "raza": "pastor rough",
+            "peso": "17kg",
+            "ruta": "img/collie03.jpg"
+
+        },
+        {
+            "ide": 4,
+            "raza": "collie smooth",
+            "peso": "12kg",
+            "ruta": "img/collie04.jpg"
+
+        },
+        {
+            "ide": 5,
+            "raza": "pastor aleman",
+            "peso": "28kg",
+            "ruta": "img/pastor01.jpg"
+        },
+        {
+            "ide": 6,
+            "raza": "pastor holandes",
+            "peso": "20kg",
+            "ruta": "img/pastor02.jpg"
+        },
+        {
+            "ide": 7,
+            "raza": "pastor australiano",
+            "peso": "15kg",
+            "ruta": "img/pastor03.jpg"
+        },
+        {
+            "ide": 8,
+            "raza": "pastor belga",
+            "peso": "18kg",
+            "ruta": "img/pastor04.jpg"
+        },
+        {
+            "ide": 9,
+            "raza": "mastin español",
+            "peso": "40kg",
+            "ruta": "img/mastin01.jpg"
+        },
+        {
+            "ide": 10,
+            "raza": "mastin pirineo",
+            "peso": "42kg",
+            "ruta": "img/mastin02.jpg"
+        },
+        {
+            "ide": 11,
+            "raza": "mastin napolitano",
+            "peso": "47kg",
+            "ruta": "img/mastin03.jpg"
+        },
+        {
+            "ide": 12,
+            "raza": "mastin ingles",
+            "peso": "43kg",
+            "ruta": "img/mastin04.jpg"
+        }
+    ]
+}

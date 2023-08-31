@@ -1,0 +1,31 @@
+* {
+    font-family: "Calibri";
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #0151A3;
+}
+
+a:visited {
+    color: #A20000;
+}
+
+a:hover {
+    color: #F60;
+}
+
+#contenedor {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.negrita {
+    font-weight: bold;
+}

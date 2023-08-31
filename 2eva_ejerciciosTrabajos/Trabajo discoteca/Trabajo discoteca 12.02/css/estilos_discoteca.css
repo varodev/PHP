@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', 'Calibri', 'Arial';
+}
+
+a {
+    text-decoration: none;
+}
+
+header img {
+    width: 100%;
+}
+
+#contenedor {
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    width: 80%;
+    height: 3900px;
+}
+
+#contenedor-canciones {
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    width: 80%;
+    height: 15900px;
+}
+
+nav ul,
+li {
+    list-style: none;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px 20px;
+}
+
+.nav-menu ul {
+    display: flex;
+    justify-content: center;
+}
+
+.ul-albumes {
+    display: flex;
+}
+
+.seccion_grupo {
+    display: inline-block;
+    width: 17%;
+    margin: 1em;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.0);
+    transition: box-shadow 0.2s;
+    transition: rotate 0.2s;
+    vertical-align: top;
+    text-align: center;
+}
+
+.seccion_grupo:hover {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    transform: rotate(2deg);
+}
+
+.seccion_grupo img {
+    width: 100%;
+}
+
+.gris {
+    background-color: darkolivegreen;
+}
+
+.seccion_grupo a {
+    color: rgb(116, 73, 63);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.seccion_canciones {
+    margin: 5px 0 0 10px;
+    display: flex;
+}
+
+.redondeado-parcial {
+    border-radius: 5px;
+}
+
+.redondeado-total {
+    border-radius: 50%;
+}
+
+#contenedor {
+    margin: 0 auto;
+}
+
+.iconos {
+    border-radius: 5px;
+    display: inline-block;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.iconos img {
+    vertical-align: top;
+    width: 20px;
+}
+
+.iconos:hover {
+    background-color: rgb(207, 207, 207);
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    min-width: 40%;
+}
+
+.columna {
+    display: flex;
+    justify-content: center;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    width: 50px;
+}
+
+input[type="text"] {
+    width: 300px;
+}
+
+.formulario {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 50%;
+    max-width: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.index-btn {
+    margin-top: 1em;
+    margin-left: 100px;
+}
+
+fieldset {
+    background-color: white;
+    margin-top: 5em;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.h2-error {
+    color: red;
+    text-align: center;
+}

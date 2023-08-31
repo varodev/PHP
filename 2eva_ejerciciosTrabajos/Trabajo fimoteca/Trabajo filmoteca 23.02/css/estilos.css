@@ -1,0 +1,15 @@
+section {
+    overflow: auto; /*Graceful degradation para Firefox*/
+    overflow: overlay;
+   }
+   
+   /*Webkit(Chrome, Android browser, Safari, Edge...)*/
+   section::-webkit-scrollbar {
+    display: none;
+   }
+  
+   section::-webkit-scrollbar-thumb {
+   background-color: #09C;
+   }
+
+  

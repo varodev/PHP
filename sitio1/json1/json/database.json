@@ -1,0 +1,37 @@
+{
+    "datos": [{
+            "ide": 1,
+            "articulo": "chaqueta",
+            "pvp": 180,
+            "ruta": "pics/chaqueta01.jpg"
+
+        },
+        {
+            "ide": 2,
+            "articulo": "pantalon",
+            "pvp": 100,
+            "ruta": "pics/pantalon01.jpg"
+
+        },
+        {
+            "ide": 3,
+            "articulo": "pantalon",
+            "pvp": 10,
+            "ruta": "pics/pantalon02.jpg"
+
+        },
+        {
+            "ide": 4,
+            "articulo": "vestido",
+            "pvp": 30,
+            "ruta": "pics/vestido01.jpg"
+
+        },
+        {
+            "ide": 5,
+            "articulo": "vestido",
+            "pvp": 100,
+            "ruta": "pics/vestido02.jpg"
+        }
+    ]
+}

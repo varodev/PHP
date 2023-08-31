@@ -1,0 +1,41 @@
+* {
+	font-family: "Nunito", "Calibri";
+	margin: 0;
+	padding: 0;
+}
+
+header img {
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #b8241f;
+}
+
+a:visited {
+	color: #9c6656;
+}
+
+a:hover {
+	color: #ff744a;
+}
+
+#contenedor {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.negrita {
+	font-weight: bold;
+}
+
+/**** ID *****/
+
+#formulario {
+	display: flex;
+	flex-direction: column;
+}
+
+
+

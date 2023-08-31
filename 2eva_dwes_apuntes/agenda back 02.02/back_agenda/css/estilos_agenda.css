@@ -1,0 +1,88 @@
+* {
+    font-family: "Nunito", "Calibri";
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #b8241f;
+}
+
+a:visited {
+    color: #9c6656;
+}
+
+a:hover {
+    color: #ff744a;
+}
+
+header img {
+    width: 100%;
+}
+
+.main-editar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*cuando esta en columna, es lo contrario*/
+}
+
+input {
+    margin: 10px 0 20px 0;
+}
+
+
+/** CLASES **/
+
+.contacto {
+    margin: 5px 0 0 10px;
+}
+
+.detalle-contacto {
+    display: inline-block;
+    line-height: 20px;
+    padding-left: 10px;
+}
+
+.icono {
+    border-radius: 5px;
+    display: inline-block;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.icono img {
+    vertical-align: top;
+    width: 20px;
+}
+
+.columna {
+    display: flex;
+    justify-content: center;
+}
+
+.icono:hover {
+    background-color: rgb(207, 207, 207);
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+
+/**** ID *****/
+
+#contenedor {
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    width: 80%;
+    height: 900px;
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    min-width: 40%;
+}
